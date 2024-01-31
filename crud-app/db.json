@@ -1,0 +1,49 @@
+{
+  "studentform": [
+    {
+      "firstname": "Agam",
+      "lastname": "vashisht",
+      "dateofbirth": "2001-09-23T18:30:00.000Z",
+      "mobile": "6284601220",
+      "gender": "Male",
+      "address": "1178 -C\nranjit nagar",
+      "id": "cc7b"
+    },
+    {
+      "id": "718f",
+      "firstname": "agam",
+      "lastname": "vashisht",
+      "dateofbirth": "2024-01-08T18:30:00.000Z",
+      "mobile": "06284601220",
+      "gender": "",
+      "address": "1178 -C\nranjit nagar"
+    },
+    {
+      "id": "6659",
+      "firstname": "anurajan",
+      "lastname": "Singh",
+      "dateofbirth": "",
+      "mobile": "9449123",
+      "gender": "Male",
+      "address": "Khanna"
+    },
+    {
+      "id": "4a1d",
+      "firstname": "mehtab",
+      "lastname": "Singh",
+      "dateofbirth": "2024-01-15T18:30:00.000Z",
+      "mobile": "09878224402",
+      "gender": "",
+      "address": "landran"
+    },
+    {
+      "id": "7441",
+      "firstname": "anurajan",
+      "lastname": "Singh",
+      "dateofbirth": "2024-01-08T18:30:00.000Z",
+      "mobile": "9449123",
+      "gender": "Male",
+      "address": "Khanna"
+    }
+  ]
+}
